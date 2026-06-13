@@ -60,10 +60,10 @@
 <table align="center">
   <tr>
     <td align="center" width="45%">
-        <img width="100%" src="https://gh-readme-profile.vercel.app/api?username=tylerperez26&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" />
+        <img width="100%" src="https://gh-readme-profile.vercel.app/api?username=andymartinak&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" />
     </td>
     <td align="center" width="55%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tylerperez26&theme=2077" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andymartinak&theme=2077" />
     </td>
   </tr>
 </table>
